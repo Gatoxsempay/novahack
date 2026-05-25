@@ -3,10 +3,10 @@
     "gd": {
         "win": "2.2081"
     },
-    "id": "fer91.noclip",
+    "id": "gatoxsempay.novahack",
     "name": "NovaHack",
     "version": "v1.2.0",
-    "developer": "fer91",
+    "developer": "Gatoxsempay",
     "description": "MHP-style hack menu with floating columns, per-hack keybinds, and persistent config.",
     "repository": "https://github.com/fer91/novahack",
     "tags": ["gameplay", "enhancement", "utility"]
