@@ -5,7 +5,7 @@
     },
     "id": "gatoxsempay.novahack",
     "name": "NovaHack",
-    "version": "v1.2.2",
+    "version": "v1.2.3",
     "developer": "Dixtirz",
     "description": "MHP-style hack menu with floating columns, per-hack keybinds, and persistent config.",
     "repository": "https://github.com/Gatoxsempay/novahack",
